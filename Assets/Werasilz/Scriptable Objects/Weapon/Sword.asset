@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a8b3245827e464438643db02c654c47, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: a86b7026a4dbed947a8932f4b755ac53, type: 3}
+  itemName: Sword
+  itemDescription: 
+  itemPrice: 900
+  isCommonItem: 0
+  isPrimaryWeaponItem: 1
+  isSecondaryWeaponItem: 0
+  isHelmetItem: 0
+  isArmorItem: 0
+  isGloveItem: 0
+  isShoesItem: 0
+  weaponPrefab: {fileID: 6499997144128314794, guid: d84df2c665e672d46859a44e7255005a, type: 3}
+  hitEffect: {fileID: 108496, guid: 57f6ce2421437db40a7db0c6295599b9, type: 3}
+  weaponDamage: 15
+  Intro_Weapon: LS_Intro
+  Outro_Weapon: LS_Outro
+  T1_Attack_1: LS_T1_Attack_1
+  T1_Attack_2: LS_T1_Attack_2
+  T1_Attack_3: LS_T1_Attack_3
+  T1_Attack_All: LS_T1_Attack_All
+  T2_Attack_1: LS_T2_Attack_1
+  T2_Attack_2: LS_T2_Attack_2
+  T2_Attack_3: LS_T2_Attack_3
+  T2_Attack_4: LS_T2_Attack_4
+  T2_Attack_All: LS_T2_Attack_All
+  T3_Attack_1: LS_T3_Attack_1
+  T3_Attack_2: LS_T3_Attack_2
+  T3_Attack_3: LS_T3_Attack_3
+  T3_Attack_4: LS_T3_Attack_4
+  T3_Attack_5: LS_T3_Attack_5
+  T3_Attack_All: LS_T3_Attack_All
+  Skill_A: LS_Skill_A
+  Skill_B: LS_Skill_B
+  Skill_C: LS_Skill_C
+  Skill_D: LS_Skill_D
+  Skill_E: LS_Skill_E
+  Skill_F: LS_Skill_F
+  Skill_G: LS_Skill_G
+  Skill_H: LS_Skill_H
+  Skill_I: LS_Skill_I
+  Skill_J: LS_Skill_J
+  Skill_K: LS_Skill_K
